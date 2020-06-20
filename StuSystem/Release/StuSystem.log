@@ -1,0 +1,54 @@
+﻿  Action.cpp
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Action.cpp(136,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  参见“sscanf”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Action.cpp(200,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  参见“sscanf”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Action.cpp(331,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  参见“sscanf”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Action.cpp(373,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  参见“sscanf”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Action.cpp(404,18): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Action.cpp(406,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+  main.cpp
+  MException.cpp
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Action.cpp(434,22): warning C4101:  “e”: 未引用的局部变量
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MException.cpp(13,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Mdata.cpp
+  Console.cpp
+  MFile.cpp
+  MString.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(17,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(23,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(43,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(57,1): warning C4996:  '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(640): message :  参见“_itoa”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(106,1): warning C4996:  'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message :  参见“strncpy”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(108,1): warning C4996:  'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(266): message :  参见“strncat”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(119,1): warning C4996:  '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(640): message :  参见“_itoa”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(295,17): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MString.cpp(296,30): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MTree.hpp
+  MUI.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\MUI.cpp(75,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UserInput.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  参见“sscanf”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\UserInput.cpp(10,1): warning C4996:  'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message :  参见“getch”的声明
+E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\UserInput.cpp(36,1): warning C4996:  '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(640): message :  参见“_itoa”的声明
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 333 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  StuSystem.vcxproj -> E:\作业\c++\CR34_吴强_20190903-项目\StuSystem\Release\StuSystem.exe
